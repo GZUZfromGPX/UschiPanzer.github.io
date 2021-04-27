@@ -1,3 +1,67 @@
 {
-    "members": []
+    "members": [
+        {
+            "name": "Haze Kusch",
+            "rank": "Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/80/6069-80eda97017461b5618d8e6c0c4f2a9e2b0a91555.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-shoto/"
+        }, 
+        {
+            "name": "MR.iks",
+            "rank": "Co.Leitung",
+            "highlight": true,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3b/5817-3b219399b6908502b4d68b87c03110f1294284cb.gif",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1883-nico-uchiha/"
+        },
+        {
+            "name":"Markus Fischer",
+            "rank":"Superadmin",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/98/6051-982589f9f4179b0e2eddf5a2428b346cab7bdd02.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer/"
+        },
+        {
+            "name":"LeqitDonut",
+            "rank":"Admin",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/42/6024-422f6cfd00948f6e4f8cba1feaca0c8f05f205d1.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1468-leqitdonut/"
+        },
+        {
+            "name":"(GPX) TheRealRaiinZ",
+            "rank":"Moderator",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/8a/6028-8a503bb88f7957cd3ec3b2dd89b43b41ce9b9ab8.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1969-gpx-therealraiinz/"
+        },
+        {
+            "name":"Kaiserschmarrn",
+            "rank":"Moderator",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/15/6050-15f3bb76c34b88c42c604d5540c7b922a291d021.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+        {
+            "name":"Manfred Protz",
+            "rank":"Mitglied",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/d9/5947-d92db055445ac9e13cf3eb8c3755e3ec8c601550.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1775-manfred-protz/"
+        },
+        {
+            "name":"Marlon",
+            "rank":"Mitglied",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/ac/6023-acadb5fbe6dae98d9f60eec39413239d2718933f.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1773-feuerwehrmann-marlon/"
+        },
+        {
+            "name":"Jeff Bezos",
+            "rank":"Mitglied",
+            "highlight":false,
+            "picture":"https://www.goldphoenix.de/wcf/images/avatars/93/6039-93d272dcb1fa20eb625f779eee76e91cfce243a3.jpg",
+            "profile":"https://www.goldphoenix.de/wcf/index.php?user/1695-jonas-peterson/#wall"
+        }
+    ]
 }
