@@ -102,7 +102,7 @@
             "name": "[GER] D34D_W01F",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6e/6139-6e96a5084ceb071cb8125a093aea6ed135a9f7ae.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/4e/6180-4ee17938fdfc87362955305631bc04a4563da5bb.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1831-ger-d34d-w01f/"
         },
         {  
@@ -186,8 +186,36 @@
             "name": "Kaiserschmarrn",
             "rank": "Supporter",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6177-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/6d/6200-6d4b56ea7aa5b48188292e0388bdb79022d99cef.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1227-kaiserschmarrn/"
+        },
+        {
+            "name": "Anton Horvat",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/b5/6153-b59a58d6b048a5a59ab15440950123263ae35993.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1697-anton-horvath/"
+        },
+        {
+            "name": "Alex Ingame",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/e3/5937-e3cf496ec3b09c1bf7a7a2e0cc9c1ad9910a0804.jpeg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1377-alex-ingame/"
+        },
+        {
+            "name": "Nagisa Shiota",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/58/4347-58dd8825907d1bf81758c9fab59ed10dad71a61e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1291-nagisa-shiota/"
+        },
+        {
+            "name": "Paul Banguko",
+            "rank": "Supporter",
+            "highlight": false,
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/58/4347-58dd8825907d1bf81758c9fab59ed10dad71a61e.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1291-nagisa-shiota/"
         }
     ]
 }
